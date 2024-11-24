@@ -3,7 +3,7 @@
 <h1 align="center">Hey there! 👋</h1>
 
 <p align="center">
-  I'm <strong>[Your Name]</strong>, a 2nd-year IT undergraduate at <strong>SLIIT</strong>. 
+  I'm <strong>Viduka </strong>, a 2nd-year IT undergraduate at <strong>SLIIT</strong>. 
   I love exploring new technologies, collaborating on exciting projects, and continuously learning to improve my skills. 
 </p>
 
